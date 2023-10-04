@@ -19,7 +19,7 @@ int main() {
         //Read analog values
         can_comm_front_sensors_t frontSensors;
 
-        frontSensors.steering = 0;
+        frontSensors.steering = 10;
         frontSensors.brake = 0;
         frontSensors.throttle_1 = 2;
         frontSensors.throttle_2 = 0;
