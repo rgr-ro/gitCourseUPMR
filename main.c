@@ -40,5 +40,6 @@ int main() {
 
         time_delay(3,140);
     }
+    // No sé que cambiar así que comentamos algo
     return (EXIT_SUCCESS);
 }
